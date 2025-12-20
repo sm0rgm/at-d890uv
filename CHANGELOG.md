@@ -1,7 +1,11 @@
 
 # Changelog
 
-## 2025\-12\-20 (SM0RGM)
+## 2025\-12\-20 beta1 (SM0RGM)
+
+* Satt Optional settings -> Display -> visning av kanaltyp, ts och cc till ON
+
+## 2025\-12\-20 beta1 (SM0RGM)
 
 * Kodpluggen (N0CALL.RDT) är gjord för CPS version 1.01N.
 * APRS TOCALL satt till APAT89 för Anytone AT-D890UV.
