@@ -1,7 +1,11 @@
 
 # Changelog
 
-## 2025\-12\-20 beta1 (SM0RGM)
+## 2025\-12\-26 beta3 (SM0RGM)
+
+* Kodpluggen anpassad för CPS + FW version 1.03.
+
+## 2025\-12\-20 beta2 (SM0RGM)
 
 * Satt Optional settings -> Display -> visning av kanaltyp, ts och cc till ON
 
