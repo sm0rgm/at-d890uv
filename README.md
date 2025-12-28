@@ -96,6 +96,12 @@ Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att
 
 Om du bara vill uppdatera din radio med kanaler, scanlistor, roaming och zoner men låta resterande inställning vara som de är kan du, istället för att importera hela N0CALL.LST välja att enbart importera filerna för Channel, ScanList, RoamingChannels, RoamingZone, Zone, TalkGroups och ReceiveGroupCallList. 
 
+### FAQ 
+
+* Om du får band error när du försöker programmera radion så överensstämmer radions MODE inte med RDT-filens. RDT-filen är gjord för mode 00003 Amateur bands Europe. Starta radion samtidigt som du håller PTT och siffran 1 inne. Vrid sedan på kanalvredet för att ställa in MODE 00003. 
+Alternativt, om du vill ha din radio i en annan mode så läs in radion i CPS och importera CSV-filerna (välj N0CALL.LST för att välja alla filer på en gång).
+* Varför är inte repeatrarnas benämning dess callsign, t ex "SK7ABC" utan de står med ortsnamn? Repeaterns callsign eller kanalnummer är praktiskt om du är på din hemmaort och känner till vilka repeatrar som finns. Kodpluggen är gjord för att man ska kunna använda den när man reser och kommer till en ny ort. Som SM0:a så säger mig SK7ABC ingenting men ortsnamnet "Helsingborg" t ex ger mig en geografisk indikation om att repeatern finns i närheten om jag t ex befinner mig i Helsingborstrakten.
+
 ## SM0RUX/Pontus silent key
 
 Den 9 mars 2025 gick SM0RUX/Pontus silent key efter några års kamp mot cancern. Kodpluggen är och förblir "SM0RUX kodplugg" men underhålls fortsatt av mig, SM0RGM/Stefan. Kodpluggen är gratis att använda men vill du ge ett bidrag så tänk gärna på Cancerfonden tel. 010-199 10 10.
